@@ -25,7 +25,7 @@ experience:
   - title: Algorithm Intern
     company: Meituan
     company_url: ''
-    company_logo: org-gc
+    company_logo: meituan
     location: Beijing
     date_start: '2020-04-01'
     date_end: '2020-08-01'
