@@ -71,10 +71,7 @@ features:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
-  # avatar:
-  #   gravatar: false
-  #   shape: circle
-  maxin:
+  avatar:
     gravatar: false
     shape: circle
   comment:
