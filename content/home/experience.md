@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Beijing
-    date_start: 'April 2020'
-    date_end: '2020-08'
+    date_start: '2020-04-01'
+    date_end: '2020-08-01'
     description: Image Watermark Removal. The service is launched in Meituan App.
     # description: |2-
     #     Responsibilities include:
@@ -42,8 +42,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Beijing
-    date_start: '2021-06'
-    date_end: '2022-09'
+    date_start: '2021-06-01'
+    date_end: '2022-09-01'
     description: Mainly engaged in the research of model compression
 
 design:
