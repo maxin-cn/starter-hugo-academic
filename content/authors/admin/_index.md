@@ -10,12 +10,12 @@ last_name: Ma
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Monash University
-    url: https://www.monash.edu/
+# organizations:
+#   - name: Monash University
+#     url: https://www.monash.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include loe-level image generation, model compression and generative models.
