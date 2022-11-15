@@ -35,7 +35,7 @@ experience:
         
     #     * Analysing
     #     * Modelling
-    #     * Deploying
+    #     * Deploying #
 
   - title: Algorithm Engineer
     company: Meituan
