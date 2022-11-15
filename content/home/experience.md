@@ -29,7 +29,7 @@ experience:
     location: Beijing
     date_start: '2020-04-01'
     date_end: '2020-08-01'
-    description: Image Watermark Removal. The service is launched in Meituan App.
+    description: Mainly engaged in the image watermark removal. The service is launched in Meituan App.
     # description: |2-
     #     Responsibilities include:
         
