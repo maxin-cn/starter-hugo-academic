@@ -1,20 +1,20 @@
 ---
-title: "Partial NIR-VIS heterogeneous face recognition with automatic saliency search"
+title: "FA-GAN: face augmentation GAN for deformation-invariant face recognition"
 authors:
 - Mandi Luo
-- Xin Ma
-- Zhihang Li
 - Jie Cao
+- Xin Ma
+- Xiaoyu Zhang
 - Ran He 
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021-10-27T00:00:00Z"
+date: "2021-01-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-27T00:00:00Z"
+publishDate: "2021-01-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Information Forensics and Security*"
 publication_short: "T-IFS"
 
-abstract: Near-infrared-visual (NIR-VIS) heterogeneous face recognition (HFR) aims to match NIR face images with the corresponding VIS ones. It is a challenging task due to the sensing gaps among different modalities. Occlusions in the input face images make the task extremely complex. To tackle these problems, we present a Saliency Search Network (SSN) to extract domain-invariant identity features. We propose to automatically search the efﬁcient parts of face images in a modality-aware man- ner, and remove redundant information. Moreover, the searching process is guided by an information bottleneck network, which mitigates the overﬁtting problems caused by small datasets. Extensive experiments on both complete and partial NIR-VIS HFR on multiple datasets demonstrate the effectiveness and robustness of the proposed method to modality discrepancy and occlusions.
+abstract: Substantial improvements have been achieved in the ﬁeld of face recognition due to the successful application of deep neural networks. However, existing methods are sensitive to both the quality and quantity of the training data. Despite the availability of large-scale datasets, the long tail data distribution induces strong biases in model learning. In this paper, we present a Face Augmentation Generative Adversarial Network (FA-GAN) to reduce the inﬂuence of imbalanced deformation attribute distributions. We propose to decouple these attributes from the identity representation with a novel hierarchical disentangle- ment module. Moreover, Graph Convolutional Networks (GCNs) are applied to recover geometric information by exploring the interrelations among local regions to guarantee the preservation of identities in face data augmentation. Extensive experiments on face reconstruction, face manipulation, and face recognition demonstrate the effectiveness and generalization ability of the proposed method.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/9583233
+url_pdf: https://ieeexplore.ieee.org/document/9330536
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
