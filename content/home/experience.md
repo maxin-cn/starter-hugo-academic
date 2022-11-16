@@ -40,7 +40,7 @@ experience:
   - title: Algorithm Engineer
     company: Meituan
     company_url: ''
-    company_logo: org-x
+    company_logo: meituan
     location: Beijing
     date_start: '2021-06-01'
     date_end: '2022-09-01'
