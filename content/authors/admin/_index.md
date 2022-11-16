@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xin Ma 马鑫
+title: Xin Ma
 
 # Full name (for SEO)
 first_name: Xin 
@@ -10,34 +10,33 @@ last_name: Ma
 superuser: true
 
 # Role/position/tagline
-# role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-#   - name: Monash University
-#     url: https://www.monash.edu/
+organizations:
+  - name: Monash University
+    url: https://www.monash.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include loe-level image generation, model compression and generative models.
 
 # # Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Low-level image generation
+  - generative models
 
 # # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Monash University
+      year: 2022-Present
+    - course: MEng in Computer Technology
+      institution: University of Chinese Academy of Sciences
+      year: 2018-2021
+    - course: BSc in Applied Electronic Information Engineering
+      institution: Jiangsu University
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
