@@ -26,18 +26,7 @@ publication_types: ["2"]
 publication: "*Pattern Recognition*"
 publication_short: ""
 
-abstract: Most modern face completion approaches adopt an autoencoder or its variants to restore missing regions 
-in face images. Encoders are often utilized to learn powerful representations that play an important role in meeting 
-the challenges of sophisticated learning tasks. Speciﬁcally, various kinds of masks are often presented in face images 
-in the wild, forming complex patterns, especially in this hard period of COVID- 19. It’s diﬃcult for encoders to 
-capture such powerful representations under this complex situation. To  address this challenge, we propose a 
-self-supervised Siamese inference network to improve the generalization and robustness of encoders. It can encode 
-contextual semantics from full-resolution images and obtain more discriminative representations. To deal with geometric 
-variations of face images, a dense correspondence ﬁeld is integrated into the network. We further propose a multi-scale 
-decoder with a novel dual attention fusion module (DAF), which can combine the restored and known regions in an adaptive 
-manner. This multi-scale architecture is beneﬁcial for the decoder to utilize discriminative representations learned from 
-encoders into images. Extensive experiments clearly demonstrate that the proposed approach not only achieves more appealing 
-results compared with state-of-the-art methods but also improves the performance of masked face recognition dramatically. 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Image inpainting, 3D.
