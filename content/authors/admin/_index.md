@@ -23,7 +23,8 @@ bio: My research interests include loe-level image generation, model compression
 # # Interests to show in About widget
 interests:
   - Low-level image generation
-  - generative models
+  - Generative models
+  - Model compression
 
 # # Education to show in About widget
 education:
