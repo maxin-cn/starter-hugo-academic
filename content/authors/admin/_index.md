@@ -79,6 +79,6 @@ highlight_name: true
 
 He is a Ph.D student at Monash University, Department of Data Science and AI. Before that he received the M.S degree in Computer Technology from University of Chinese Academy of Sciences and the B.E degree in Applied Electronic Information Engineering from Jiangsu University.
 
-His research interests include loe-level image generation, model compression and generative models.
+His research interests include low-level image generation, model compression and generative models.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
