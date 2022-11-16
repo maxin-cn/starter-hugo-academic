@@ -29,7 +29,7 @@ interests:
 # # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science
       institution: Monash University
       year: 2022-Present
     - course: MEng in Computer Technology
