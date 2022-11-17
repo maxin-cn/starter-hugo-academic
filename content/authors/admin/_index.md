@@ -79,6 +79,6 @@ highlight_name: true
 
 I'm a Ph.D student at Monash University, Faculty of Information Technology. Before that, I received the M.S degree in Computer Technology from University of Chinese Academy of Sciences and the B.E degree in Applied Electronic Information Engineering from Jiangsu University.
 
-His research interests include low-level vision, model compression and generative models.
+My research interests include low-level vision, model compression and generative models.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
