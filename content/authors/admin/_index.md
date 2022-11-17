@@ -22,7 +22,7 @@ bio: My research interests include loe-level image generation, model compression
 
 # # Interests to show in About widget
 interests:
-  - Low-level image generation
+  - Low-level vision
   - Generative models
   - Model compression
 
@@ -77,8 +77,8 @@ email: 'xin.ma1@monash.edu'
 highlight_name: true
 ---
 
-He is a Ph.D student at Monash University, Department of Data Science and AI. Before that he received the M.S degree in Computer Technology from University of Chinese Academy of Sciences and the B.E degree in Applied Electronic Information Engineering from Jiangsu University.
+I'm a Ph.D student at Monash University, Faculty of Information Technology. Before that, I received the M.S degree in Computer Technology from University of Chinese Academy of Sciences and the B.E degree in Applied Electronic Information Engineering from Jiangsu University.
 
-His research interests include low-level image generation, model compression and generative models.
+His research interests include low-level vision, model compression and generative models.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
