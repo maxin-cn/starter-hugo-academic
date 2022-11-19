@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: activities
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -18,11 +18,12 @@ subtitle:
 # Section design
 design:
   # Choose a view for the listings:
-  view: List  # citation
+  view: List
   columns: '2'
 ---
 
 Conference Reviewers:
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023 \\
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
 IEEE International Conference on Multimedia and Expo, 2022
