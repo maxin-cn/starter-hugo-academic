@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-  - 吳恩達
+  - Wowchemy
 
 tags:
   - Academic
