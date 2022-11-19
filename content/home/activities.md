@@ -24,6 +24,6 @@ design:
 
 Conference Reviewers:
 
-• IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+    • IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 
-• IEEE International Conference on Multimedia and Expo (ICME), 2022
+    • IEEE International Conference on Multimedia and Expo (ICME), 2022
