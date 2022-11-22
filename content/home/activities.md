@@ -27,4 +27,6 @@ Conference Reviewers:
 
 • IEEE International Conference on Multimedia and Expo (ICME), 2022
 
+Journal Reviewers:
 
+• Signal, Image and Video Processing
