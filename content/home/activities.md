@@ -19,7 +19,7 @@ subtitle:
 design:
   # Choose a view for the listings:
   view: List
-  columns: '1'
+  columns: '2'
 ---
 Conference Reviewers:
 
