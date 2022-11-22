@@ -8,7 +8,7 @@ baseURL: 'https://maxin-cn.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
-#############################
+############################
 
 defaultContentLanguage: en
 hasCJKLanguage: false
