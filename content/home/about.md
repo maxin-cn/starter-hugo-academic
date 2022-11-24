@@ -1,21 +1,35 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
+type: widget_page # landing
 
-# Activate this widget? true/false
-active: true
+sections:
+  - block: about.avatar
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: 
+    design:
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
+  - block: markdown
+    content:
+      title: 'Welcome 👋'
+      subtitle: ''
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
+        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+    design:
+      columns: '1'
 ---
