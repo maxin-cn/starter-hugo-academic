@@ -25,7 +25,9 @@ Conference Reviewers:
 
 • IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 
-• IEEE International Conference on Multimedia and Expo (ICME), 2022
+• International Conference on Acoustics, Speech and Signal Processing(ICASSP), 2023
+
+• IEEE International Conference on Multimedia and Expo (ICME), 2022/2023
 
 Journal Reviewers:
 
